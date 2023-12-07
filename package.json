@@ -9,6 +9,10 @@
   },
   "author": "",
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "chai": "^4.3.10"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
 }
