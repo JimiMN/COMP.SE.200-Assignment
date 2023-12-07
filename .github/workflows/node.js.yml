@@ -21,6 +21,8 @@ jobs:
       with:
         # this will use the latest Node 14 version
         node-version: 14.x
+    #Added npm install before npm ci because of npm ci causing errors without it
+    -run: npm install
     # install dependencies using clean install to avoid package lock updates
     - run: npm ci
     # build the project if necessary
