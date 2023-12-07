@@ -6,12 +6,13 @@
   "type": "module",
   "scripts": {
     "test": "mocha --exit --recursive --require @babel/register",
-    "test-coverage": "nyc npm test && nyc report --reporter=text-lcov | coveralls "
+    "test-coverage": "nyc npm test && nyc report --reporter=text-lcov --all | coveralls "
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "chai": "^4.3.10"
+    "chai": "^4.3.10",
+    "node": "^14.21.3"
   },
   "devDependencies": {
     "@babel/register": "^7.22.15",
@@ -19,6 +20,6 @@
     "babel-plugin-istanbul": "^6.1.1",
     "coveralls": "^3.1.1",
     "mocha": "^10.2.0",
-    "nyc": "^14.1.1"
+    "nyc": "^15.1.0"
   }
 }
