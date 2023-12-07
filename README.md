@@ -1,1 +1,1 @@
-# COMP.SE.200-Assignment
+[![Coverage Status](https://coveralls.io/repos/github/TuomoVVP/COMP.SE.200/badge.svg?branch=)](https://coveralls.io/github/TuomoVVP/COMP.SE.200?branch=)
