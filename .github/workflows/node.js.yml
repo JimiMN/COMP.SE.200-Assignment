@@ -28,7 +28,7 @@ jobs:
     # build the project if necessary
     - run: npm run build --if-present
     # finally run the test
-    - run: npm test-coverage
+    - run: npm run test-coverage
 
     # Report to coveralls
     - name: Coveralls
