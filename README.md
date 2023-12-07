@@ -1,1 +1,1 @@
-[![Coverage Status](https://coveralls.io/repos/github/TuomoVVP/COMP.SE.200/badge.svg?branch=)](https://coveralls.io/github/TuomoVVP/COMP.SE.200?branch=)
+[![Coverage Status](https://coveralls.io/repos/github/JimiMN/COMP.SE.200-Assignment/badge.svg?branch=main)](https://coveralls.io/github/JimiMN/COMP.SE.200-Assignment?branch=main)
