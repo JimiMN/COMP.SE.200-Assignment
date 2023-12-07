@@ -1,3 +1,8 @@
 {
-    "extends": "@istanbuljs/nyc-config-babel"
+    "extends": "@istanbuljs/nyc-config-babel",
+    "all": true,
+    "extension": [".js"],
+    "include": ["src/**/*.js"],
+    "reporter": ["lcov", "text-summary"]
+      
 }
