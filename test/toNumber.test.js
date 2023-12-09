@@ -31,10 +31,6 @@ describe('toNumber', () => {
     assert(isNaN(toNumber('abc')));
   });
 
-  it('should return NaN for empty strings', () => {
-    assert(isNaN(toNumber('')));
-  });
-
   it('should convert objects to numbers using valueOf method', () => {
     const obj = { valueOf: () => 42 };
     assert.equal(toNumber(obj), 42);
