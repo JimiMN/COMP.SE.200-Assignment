@@ -1,23 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1701977021356" clover="3.2.0">
-  <project timestamp="1701977021356" name="All files">
-    <metrics statements="110" coveredstatements="60" conditionals="86" coveredconditionals="17" methods="18" coveredmethods="9" elements="214" coveredelements="86" complexity="0" loc="110" ncloc="110" packages="2" files="16" classes="16"/>
+<coverage generated="1702130221994" clover="3.2.0">
+  <project timestamp="1702130221994" name="All files">
+    <metrics statements="117" coveredstatements="67" conditionals="90" coveredconditionals="21" methods="20" coveredmethods="11" elements="227" coveredelements="99" complexity="0" loc="117" ncloc="117" packages="2" files="18" classes="18"/>
     <package name="src">
-      <metrics statements="30" coveredstatements="6" conditionals="32" coveredconditionals="1" methods="6" coveredmethods="3"/>
-      <file name="add.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\add.js">
+      <metrics statements="37" coveredstatements="13" conditionals="36" coveredconditionals="5" methods="8" coveredmethods="5"/>
+      <file name="add.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\add.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="16" count="1" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
       </file>
-      <file name="capitalize.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\capitalize.js">
+      <file name="capitalize.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\capitalize.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="17" count="1" type="stmt"/>
       </file>
-      <file name="isSymbol.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\isSymbol.js">
+      <file name="compact.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\compact.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="19" count="23" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="8" type="stmt"/>
+        <line num="23" count="5" type="stmt"/>
+      </file>
+      <file name="defaultTo.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\defaultTo.js">
+        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="20" count="8" type="cond" truecount="2" falsecount="0"/>
+      </file>
+      <file name="isSymbol.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\isSymbol.js">
         <metrics statements="2" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="19" count="0" type="stmt"/>
         <line num="20" count="0" type="cond" truecount="0" falsecount="4"/>
       </file>
-      <file name="slice.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\slice.js">
+      <file name="slice.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\slice.js">
         <metrics statements="16" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="22" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -36,7 +49,7 @@
         <line num="41" count="0" type="stmt"/>
         <line num="43" count="0" type="stmt"/>
       </file>
-      <file name="toString.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\toString.js">
+      <file name="toString.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\toString.js">
         <metrics statements="9" coveredstatements="3" conditionals="12" coveredconditionals="1" methods="2" coveredmethods="1"/>
         <line num="4" count="1" type="stmt"/>
         <line num="28" count="1" type="cond" truecount="1" falsecount="1"/>
@@ -48,27 +61,27 @@
         <line num="38" count="0" type="stmt"/>
         <line num="39" count="0" type="cond" truecount="0" falsecount="4"/>
       </file>
-      <file name="upperFirst.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\upperFirst.js">
+      <file name="upperFirst.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\upperFirst.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="19" count="1" type="stmt"/>
       </file>
     </package>
     <package name="src..internal">
       <metrics statements="80" coveredstatements="54" conditionals="54" coveredconditionals="16" methods="12" coveredmethods="6"/>
-      <file name="asciiToArray.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\.internal\asciiToArray.js">
+      <file name="asciiToArray.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\.internal\asciiToArray.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="9" count="0" type="stmt"/>
       </file>
-      <file name="baseToNumber.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\.internal\baseToNumber.js">
+      <file name="baseToNumber.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\.internal\baseToNumber.js">
         <metrics statements="6" coveredstatements="3" conditionals="4" coveredconditionals="1" methods="1" coveredmethods="1"/>
         <line num="4" count="1" type="stmt"/>
-        <line num="15" count="2" type="cond" truecount="1" falsecount="1"/>
-        <line num="16" count="2" type="stmt"/>
+        <line num="15" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="8" type="stmt"/>
         <line num="18" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="19" count="0" type="stmt"/>
         <line num="21" count="0" type="stmt"/>
       </file>
-      <file name="baseToString.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\.internal\baseToString.js">
+      <file name="baseToString.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\.internal\baseToString.js">
         <metrics statements="10" coveredstatements="2" conditionals="12" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="4" count="1" type="stmt"/>
         <line num="7" count="1" type="stmt"/>
@@ -81,13 +94,13 @@
         <line num="29" count="0" type="stmt"/>
         <line num="30" count="0" type="cond" truecount="0" falsecount="4"/>
       </file>
-      <file name="castSlice.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\.internal\castSlice.js">
+      <file name="castSlice.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\.internal\castSlice.js">
         <metrics statements="3" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="stmt"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="15" count="0" type="cond" truecount="0" falsecount="4"/>
       </file>
-      <file name="createCaseFirst.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\.internal\createCaseFirst.js">
+      <file name="createCaseFirst.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\.internal\createCaseFirst.js">
         <metrics statements="7" coveredstatements="6" conditionals="8" coveredconditionals="4" methods="2" coveredmethods="2"/>
         <line num="13" count="1" type="stmt"/>
         <line num="14" count="1" type="cond" truecount="1" falsecount="1"/>
@@ -97,30 +110,30 @@
         <line num="26" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="30" count="1" type="stmt"/>
       </file>
-      <file name="createMathOperation.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\.internal\createMathOperation.js">
+      <file name="createMathOperation.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\.internal\createMathOperation.js">
         <metrics statements="13" coveredstatements="8" conditionals="16" coveredconditionals="11" methods="2" coveredmethods="2"/>
         <line num="13" count="1" type="stmt"/>
-        <line num="14" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="14" count="4" type="cond" truecount="2" falsecount="2"/>
         <line num="15" count="0" type="stmt"/>
-        <line num="17" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="17" count="4" type="cond" truecount="3" falsecount="1"/>
         <line num="18" count="0" type="stmt"/>
-        <line num="20" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="20" count="4" type="cond" truecount="3" falsecount="1"/>
         <line num="21" count="0" type="stmt"/>
-        <line num="23" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="23" count="4" type="cond" truecount="3" falsecount="1"/>
         <line num="24" count="0" type="stmt"/>
         <line num="25" count="0" type="stmt"/>
-        <line num="28" count="1" type="stmt"/>
-        <line num="29" count="1" type="stmt"/>
-        <line num="31" count="1" type="stmt"/>
+        <line num="28" count="4" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
       </file>
-      <file name="getTag.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\.internal\getTag.js">
+      <file name="getTag.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\.internal\getTag.js">
         <metrics statements="4" coveredstatements="1" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="1" count="2" type="stmt"/>
         <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="14" count="0" type="stmt"/>
       </file>
-      <file name="hasUnicode.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\.internal\hasUnicode.js">
+      <file name="hasUnicode.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\.internal\hasUnicode.js">
         <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
@@ -134,11 +147,11 @@
         <line num="15" count="1" type="stmt"/>
         <line num="25" count="1" type="stmt"/>
       </file>
-      <file name="stringToArray.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\.internal\stringToArray.js">
+      <file name="stringToArray.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\.internal\stringToArray.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
       </file>
-      <file name="unicodeToArray.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\.internal\unicodeToArray.js">
+      <file name="unicodeToArray.js" path="C:\koulu2\4_vuosi\testing\COMP.SE.200-Assignment\src\.internal\unicodeToArray.js">
         <metrics statements="24" coveredstatements="23" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
