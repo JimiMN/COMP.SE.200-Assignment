@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "jest",
-    "test-coverage": "npx jest --coverage --coverageReporters=text-lcov | coveralls"
+    "test-coverage": "npx jest --coverage --coverageReporters=text-lcov"
   },
   "author": "",
   "license": "MIT",
