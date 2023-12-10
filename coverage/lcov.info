@@ -266,23 +266,13 @@ SF:src\isSymbol.js
 FN:18,isSymbol
 FNF:1
 FNH:1
-<<<<<<< HEAD
-FNDA:32,isSymbol
-DA:19,32
-DA:20,32
+FNDA:31,isSymbol
+DA:19,31
+DA:20,31
 LF:2
 LH:2
-BRDA:20,0,0,32
-BRDA:20,0,1,31
-=======
-FNDA:27,isSymbol
-DA:19,27
-DA:20,27
-LF:2
-LH:2
-BRDA:20,0,0,27
-BRDA:20,0,1,27
->>>>>>> a1df10c8fab9d4c1b33984f1990c0536cdaa5344
+BRDA:20,0,0,31
+BRDA:20,0,1,30
 BRDA:20,0,2,4
 BRDA:20,0,3,2
 BRF:4

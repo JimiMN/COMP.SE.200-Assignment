@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<coverage generated="1702220546206" clover="3.2.0">
-  <project timestamp="1702220546207" name="All files">
+<coverage generated="1702221221352" clover="3.2.0">
+  <project timestamp="1702221221352" name="All files">
     <metrics statements="216" coveredstatements="181" conditionals="272" coveredconditionals="182" methods="43" coveredmethods="38" elements="531" coveredelements="401" complexity="0" loc="216" ncloc="216" packages="2" files="38" classes="38"/>
-=======
-<coverage generated="1702145375149" clover="3.2.0">
-  <project timestamp="1702145375149" name="All files">
-    <metrics statements="216" coveredstatements="179" conditionals="272" coveredconditionals="179" methods="43" coveredmethods="37" elements="531" coveredelements="395" complexity="0" loc="216" ncloc="216" packages="2" files="38" classes="38"/>
->>>>>>> a1df10c8fab9d4c1b33984f1990c0536cdaa5344
     <package name="src">
       <metrics statements="102" coveredstatements="94" conditionals="135" coveredconditionals="95" methods="25" coveredmethods="21"/>
       <file name="add.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\add.js">
@@ -97,13 +91,8 @@
       </file>
       <file name="isSymbol.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\isSymbol.js">
         <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
-<<<<<<< HEAD
-        <line num="19" count="32" type="stmt"/>
-        <line num="20" count="32" type="cond" truecount="4" falsecount="0"/>
-=======
-        <line num="19" count="27" type="stmt"/>
-        <line num="20" count="27" type="cond" truecount="4" falsecount="0"/>
->>>>>>> a1df10c8fab9d4c1b33984f1990c0536cdaa5344
+        <line num="19" count="31" type="stmt"/>
+        <line num="20" count="31" type="cond" truecount="4" falsecount="0"/>
       </file>
       <file name="isTypedArray.js" path="C:\Users\Jimi\Desktop\Skool\COMP.SE.200 Software Testing\COMP.SE.200-Assignment\src\isTypedArray.js">
         <metrics statements="5" coveredstatements="3" conditionals="6" coveredconditionals="3" methods="2" coveredmethods="0"/>
