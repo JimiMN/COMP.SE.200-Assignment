@@ -21,4 +21,13 @@ describe('toString', () => {
   it('should convert a string to itself', () => {
     assert.equal(toString('abc'), 'abc');
   });
+  it('Should convert symbol to a string', ()=> {
+    assert.equal(toString(Symbol('abc')), 'abc');
+  });
+  it('Should convert symbol to a string', ()=> {
+    const input = [1,2,3];
+    const expectedOutput = '1,2,3';
+
+    assert.equal(toString(input), expectedOutput);
+  });
 });
